@@ -1,0 +1,15 @@
+[
+{
+  "modid": "jademod",
+  "name": "Jade Mod",
+  "description": "It's a very simple Jade Mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Baron Barilcon"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

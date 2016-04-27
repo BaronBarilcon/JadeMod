@@ -1,0 +1,14 @@
+item.gemJade.name=Jade
+item.swordJade.name=Jade Sword
+item.pickaxeJade.name=Jade Pickaxe
+item.shovelJade.name=Jade Shovel
+item.axeJade.name=Jade Axe
+item.hoeJade.name=Jade Hoe
+
+item.helmetJade.name=Jade Helmet
+item.chestplateJade.name=Jade Chestplate
+item.leggingsJade.name=Jade Leggings
+item.bootsJade.name=Jade Boots
+
+tile.blockJade.name=Jade Block
+tile.oreJade.name=Jade Ore
