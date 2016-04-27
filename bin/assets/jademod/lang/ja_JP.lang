@@ -1,0 +1,14 @@
+item.gemJade.name=ヒスイ
+item.swordJade.name=ヒスイの剣
+item.pickaxeJade.name=ヒスイのツルハシ
+item.shovelJade.name=ヒスイのシャベル
+item.axeJade.name=ヒスイの斧
+item.hoeJade.name=ヒスイのクワ
+
+item.helmetJade.name=ヒスイのヘルメット
+item.chestplateJade.name=ヒスイのチェストプレート
+item.leggingsJade.name=ヒスイのレギンス
+item.bootsJade.name=ヒスイのブーツ
+
+tile.blockJade.name=ヒスイブロック
+tile.oreJade.name=ヒスイ鉱石
