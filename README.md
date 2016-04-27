@@ -1,7 +1,8 @@
 # JadeMod
 A very simple mod that adds jade and tools of it.
 
---Added Items
+[Added Items]
+
 Jade,
 Jade Sword,
 Jade Pickaxe,
@@ -12,6 +13,7 @@ Jade Chestplate,
 Jade Leggings,
 Jade Boots
 
---Added Blocks
+[Added Blocks]
+
 Jade Ore,
 Jade Block
