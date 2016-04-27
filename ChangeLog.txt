@@ -1,0 +1,9 @@
+1.0.1
+[ADDED] Configration file Added. About WorldGeneration. 
+
+1.0.0:
+[ADDED] Item:Jade.
+[ADDED] Tool:Jade Sword, Jade Pickaxe, Jade Shovel, Jade Axe, Jade Hoe.
+[ADDED] Armor:Jade Helmet, Jade Chestplate, Jade Leggings, Jade Boots.
+[ADDED] Block:Jade Ore, Jade Block.
+[ADDED] Generates Jade Ore in Overworld.
